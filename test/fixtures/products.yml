@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: "Redmi  5g mobile"
+  description: "5g latest andorid mobile"
+
+two:
+  name: "Samsung mobile"
+  thumbnail_image: "https://Samsung.info"
+
+three:
+  description: "Samsung mobile"
+  thumbnail_image: "https://Samsung.info"
